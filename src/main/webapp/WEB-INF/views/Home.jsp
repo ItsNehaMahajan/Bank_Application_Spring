@@ -83,10 +83,8 @@
         
     </ul>
 </nav>
-<div style="width: 50%; margin: auto; text-align: center; background-color: #3498db; color: #ffffff; padding: 20px;">
-    <h1>Welcome to YONO</h1>
-    <h2>Your Gateway to Financial Brilliance!</h2>
-</div>
+<img src="./resources/download.jpeg" height="700">
+
 
 
 
